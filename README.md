@@ -38,7 +38,7 @@
 目前尔湾云加速器没有跑路，可以放心使用。
 
 ## 尔湾云加速器评测
-更多有关三番云加速器评测可访问：https://jichangzhu.com/node/erwan/
+更多有关尔湾云加速器评测可访问：https://jichangzhu.com/node/erwan/
 
 ## 更多推荐
  - [Clash节点推荐](https://github.com/clashdownload/Clash)
